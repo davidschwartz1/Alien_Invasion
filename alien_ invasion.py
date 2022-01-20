@@ -7,6 +7,7 @@ from button import Button
 import game_functions as gf
 from scoreboard import Scoreboard
 
+
 def run_game():
     pygame.init()
     ai_settings = Settings()
